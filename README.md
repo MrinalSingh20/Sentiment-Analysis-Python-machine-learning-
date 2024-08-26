@@ -23,16 +23,9 @@ This project performs sentiment analysis on Amazon reviews to determine whether 
 
 *Dataset*
 
-- Amazon reviews dataset (available in the `data` folder)
+- Amazon reviews dataset (available At 🔗 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
 - Reviews are preprocessed and split into training and testing sets
 
-*Usage*
-
-1. Clone the repository: `git clone https://github.com/your-username/sentiment-analysis-amazon-reviews.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the data preprocessing script: `python src/preprocess_data.py`
-4. Run the modeling script: `python src/train_model.py`
-5. Evaluate the model: `python src/evaluate_model.py`
 
 *Contributing*
 
